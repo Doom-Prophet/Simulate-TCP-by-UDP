@@ -4,5 +4,5 @@
 * The idea is to simulate a TCP protocol with UDP, to realize reliable data transfer even when there is delay or packet loss in the network. Our final implementation can send packages fast and efficiently with the ability to rearrange the usage of bandwidth when sharing the path with other process. The testing environment was set up using two different virtual machine on PC.
 ## TCP State Machine
 Author: [Romit Roy Choudhury @ UIUC](https://croy.web.engr.illinois.edu/)
-
+!(https://github.com/Doom-Prophet/Simulate-TCP-by-UDP/blob/main/TCP.jpg)
 
